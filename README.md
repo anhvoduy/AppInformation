@@ -1,2 +1,2 @@
-# app-gold-android
-app-gold-android
+# app-gold-flutter
+https://flutter.dev/docs
