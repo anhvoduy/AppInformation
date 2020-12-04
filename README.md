@@ -32,4 +32,4 @@ samples, guidance on mobile development, and a full API reference.
 # Flutter command line
 - cd folder flutter, run flutter console, type flutter doctor
 - run: flutter create AppGoldFl
-- run: flutter run (need to update suitable android sqk)
+- run: flutter run
