@@ -16,8 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-
-# Note for run:
+## Note for run:
 - https://flutter.dev/docs
 
 # what is Flutter ?
@@ -32,3 +31,5 @@ samples, guidance on mobile development, and a full API reference.
 
 # Flutter command line
 - cd folder flutter, run flutter console, type flutter doctor
+- run: flutter create AppGoldFl
+- run: flutter run
