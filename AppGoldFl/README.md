@@ -1,4 +1,4 @@
-# AppGoldFl
+# App Information
 
 A new Flutter project.
 
